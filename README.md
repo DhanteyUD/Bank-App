@@ -54,3 +54,9 @@
 
 # 2. Mongo Aggregation Exercise.
 - Go through the readme file in the Folder `MongoAggregation`
+
+---
+
+Mongo Aggregation Resource 
+
+`https://www.w3resource.com/mongodb-exercises/#PracticeOnline`
