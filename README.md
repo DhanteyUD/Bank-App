@@ -1,0 +1,3 @@
+# Bank App
+
+Database - `MongoDB`
