@@ -1,10 +1,8 @@
 # 1. NO_SQL
 
-### Implement this task using MongoDB
+### Implemented with MongoDB
 
 ### Clarification
-- Convert your week-7-task database into a NOSQL DB using `MONGODB`. 
-- Return the same information as specified from previous task.
 - Implement pagination for both transaction and balance table, `with limit of 5 values for each page`
 - Create Authentication and Authorization for users using a middleware function
 - Implement Validation for incoming request using  **Joi**
