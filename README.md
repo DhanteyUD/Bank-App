@@ -46,11 +46,11 @@
 ```
 
 ### Test Coverage (Test is mandatory):
-- Test your database using mongodb-memory-server
+- Test database using mongodb-memory-server
 - Test all endpoints `(GET, POST, PUT, DELETE)`
 
 
-# 2. Mongo Aggregation Exercise.
+# 2. Mongo Aggregation.
 - Go through the readme file in the Folder `MongoAggregation`
 
 ---
