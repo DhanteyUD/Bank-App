@@ -3,11 +3,11 @@
 ### Implemented with MongoDB
 
 ### Clarification
-- Implement pagination for both transaction and balance table, `with limit of 5 values for each page`
-- Create Authentication and Authorization for users using a middleware function
-- Implement Validation for incoming request using  **Joi**
+- Pagination implemented for both transaction and balance table, `with limit of 5 values for each page`
+- Authentication and Authorization created for users using a middleware function
+- Validation implemented for incoming request using  **Joi**
 - Only registered users can access all `endpoints`
-- Use mongoDB-compass for local development
+- MongoDB-compass used for local development
 
 - Balance data format:
 ```js
@@ -45,13 +45,13 @@
 
 ```
 
-### Test Coverage (Test is mandatory):
-- Test database using mongodb-memory-server
-- Test all endpoints `(GET, POST, PUT, DELETE)`
+### Test Coverage:
+- Database tested using mongodb-memory-server
+- All endpoints tested `(GET, POST, PUT, DELETE)`
 
 
 # 2. Mongo Aggregation.
-- Go through the readme file in the Folder `MongoAggregation`
+- Contained in the Folder `MongoAggregation`
 
 ---
 
