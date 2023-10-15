@@ -2,7 +2,7 @@
 
 ### Implemented with MongoDB
 
-### Clarification
+### Clarification:
 - Pagination implemented for both transaction and balance table, `with limit of 5 values for each page`
 - Authentication and Authorization created for users using a middleware function
 - Validation implemented for incoming request using  **Joi**
